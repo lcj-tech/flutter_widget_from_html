@@ -10,10 +10,8 @@ set -euo pipefail
 )
 
 (
-  cd ./packages/fwfh_just_audio &&
     flutter analyze &&
     flutter test "$@" &&
-    echo 'packages/fwfh_just_audio OK'
 )
 
 (

@@ -187,7 +187,6 @@ The [enhanced](https://pub.dev/packages/flutter_widget_from_html) package uses a
 
 - [fwfh_cached_network_image](https://pub.dev/packages/fwfh_cached_network_image) for optimized image rendering
 - [fwfh_chewie](https://pub.dev/packages/fwfh_chewie) for VIDEO support
-- [fwfh_just_audio](https://pub.dev/packages/fwfh_just_audio) for AUDIO support
 - [fwfh_svg](https://pub.dev/packages/fwfh_svg) for SVG support
 - [fwfh_url_launcher](https://pub.dev/packages/fwfh_url_launcher) to launch URLs
 - [fwfh_webview](https://pub.dev/packages/fwfh_webview) for IFRAME support
